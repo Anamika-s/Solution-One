@@ -1,6 +1,6 @@
-﻿// in C #include<stdio.h>
+﻿// in C #include<stdio.h> printf scanf
 // in java , import package
-using System;
+using System;   // namespace
 
 namespace Demo_One  // namespace > logical collection of related classes
 {

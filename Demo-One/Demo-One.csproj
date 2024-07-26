@@ -6,6 +6,7 @@
     <RootNamespace>Demo_One</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>Demo_One.Program6</StartupObject>
   </PropertyGroup>
 
 </Project>
